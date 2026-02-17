@@ -1,0 +1,3 @@
+n=(input("enter your number - "))
+value= ord(n)
+print(value)
